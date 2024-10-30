@@ -1,5 +1,6 @@
 !!! DON'T SELL !!!
 1. EDIT MAIN.PY CHANGE TOKEN
+https://www.youtube.com/watch?v=b2Y8-Z3Wtjo
 2. RUN SETUP.BAT
 3. RUN MAIN.PY
 
